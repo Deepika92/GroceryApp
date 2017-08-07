@@ -2,4 +2,6 @@
 GroceryApp
 
 
-Team Members: Urmila Mahey , Deepika Sharma
+Team Members: Urmila Mahey
+Deepika Sharma
+Kanchan Sharma
